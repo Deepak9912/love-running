@@ -252,7 +252,6 @@ footer{
 }
 
 /* Form */
-
 .form-section {
     clear: left;
     background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
@@ -299,7 +298,6 @@ footer{
     background-color: #fafafa;
     color: #f16c6b;
 }
-
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
