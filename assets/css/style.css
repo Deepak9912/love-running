@@ -227,6 +227,12 @@ footer{
         float: left;
         padding: 0;
     }
+    #times > div{
+        width: 100%;
+        height: 150px;
+        float: left;
+        clear: both;
+    }
 
     #center-about {
         clear: both;
